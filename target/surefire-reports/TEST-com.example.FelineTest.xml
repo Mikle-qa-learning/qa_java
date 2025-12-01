@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.28_6\bin"/>
-    <property name="sun.java.command" value="C:\Users\Freud\AppData\Local\Temp\surefire6996609889925549726\surefirebooter-20251130154947922_3.jar C:\Users\Freud\AppData\Local\Temp\surefire6996609889925549726 2025-11-30T15-49-47_858-jvmRun1 surefire-20251130154947922_1tmp surefire_0-20251130154947922_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Freud\AppData\Local\Temp\surefire8103709983253786888\surefirebooter-20251201145836416_3.jar C:\Users\Freud\AppData\Local\Temp\surefire8103709983253786888 2025-12-01T14-58-36_249-jvmRun1 surefire-20251201145836416_1tmp surefire_0-20251201145836416_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Freud\OneDrive\Desktop\automation_project\Sprint4\Sprint_4\qa_java\target\test-classes;C:\Users\Freud\OneDrive\Desktop\automation_project\Sprint4\Sprint_4\qa_java\target\classes;C:\Users\Freud\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Freud\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Freud\.m2\repository\org\mockito\mockito-core\5.20.0\mockito-core-5.20.0.jar;C:\Users\Freud\.m2\repository\net\bytebuddy\byte-buddy\1.17.7\byte-buddy-1.17.7.jar;C:\Users\Freud\.m2\repository\net\bytebuddy\byte-buddy-agent\1.17.7\byte-buddy-agent-1.17.7.jar;C:\Users\Freud\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Freud\AppData\Local\Temp\surefire6996609889925549726\surefirebooter-20251130154947922_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Freud\AppData\Local\Temp\surefire8103709983253786888\surefirebooter-20251201145836416_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.28+6-LTS"/>
